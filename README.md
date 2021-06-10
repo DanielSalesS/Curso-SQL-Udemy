@@ -17,13 +17,27 @@
 - Having
 - As
 
+### Seção 2: Joins
+
+- Inner Join
+- Tipos de Joins
+- Outer Joins
+- Union
+- Self Join
+- Subquery
+
 ## Notebooks
 - [Python](/notebooks/python/)
 
 ## Database
-[AdventureWorks2017](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
+* [AdventureWorks2017](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
+
+* [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 
 ## Referências
 - Curso Udemy: https://www.udemy.com/course/curso-sql-completo-desafios-e-muita-pratica/
 
 - YouTube: https://youtube.com/playlist?list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv
+- SQL W3Schools: https://www.w3schools.com/sql/
+- SQL Tutorialspoint: https://www.tutorialspoint.com/sql/index.htm
+
