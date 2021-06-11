@@ -26,6 +26,11 @@
 - Self Join
 - Subquery
 
+### Seção 3: Funções mais utilizadas
+- Datepart
+- Manipulação de String
+- Operações Matemáticas
+
 ## Notebooks
 - [Python](/notebooks/python/)
 
